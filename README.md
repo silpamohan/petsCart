@@ -6,7 +6,9 @@ Project iscreated as shopping cart of pet shops.
 installation
 
 npm install - g @angular/cli
+
 ng  add material
+
 npm install -s @angular/flex-layout
 
 
