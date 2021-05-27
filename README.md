@@ -12,5 +12,5 @@ ng  add material
 npm install -s @angular/flex-layout
 
 
+![image](https://user-images.githubusercontent.com/31878910/119815661-6b418900-bf09-11eb-91a4-b81c741913a7.png)
 
-![image](https://user-images.githubusercontent.com/31878910/119812180-81e5e100-bf05-11eb-8c8b-9c949291647c.png)
